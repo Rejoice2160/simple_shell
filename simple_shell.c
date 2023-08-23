@@ -2,7 +2,6 @@
 
 /**
  * main - entry point
- * of the function
  * @ac: arg count
  * @av: arg vector
  *
